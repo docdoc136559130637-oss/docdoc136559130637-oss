@@ -17,6 +17,7 @@ Gamer🎮<br>BsCpe Student🧑‍🎓<br>Likes to code for fun
 - 🥉 **3rd Place — Divisional Robotics**
   - Arduino
 
+**Willing to listen, willing to learn, and willing to contribute to the Google Organization of PUP.**
 
 
 
