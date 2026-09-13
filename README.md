@@ -11,10 +11,10 @@ Gamer🎮<br>BsCpe Student🧑‍🎓<br>Likes to code for fun
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Place — Divisional Drafting**
+- 🥉 **3rd Place — District Drafting**
   - Adobe
 
-- 🥉 **3rd Place — Divisional Robotics**
+- 🥈 **2nd Place — Divisional Robotics**
   - Arduino
 
 **Willing to listen, willing to learn, and willing to contribute to the Google Organization of PUP.**
