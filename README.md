@@ -9,7 +9,13 @@ Gamer🎮<br>BsCpe Student🧑‍🎓<br>Likes to code for fun
 ![](https://streak-stats.demolab.com/?user=docdoc136559130637-oss&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=docdoc136559130637-oss&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+## 🏆 Achievements
 
+- 🥈 **2nd Place — Divisional Drafting**
+  - Adobe
+
+- 🥉 **3rd Place — Divisional Robotics**
+  - Arduino
 
 
 
